@@ -147,6 +147,11 @@ const RazerProducts = {
         name: 'Razer Blackshark V2 Pro RZ04-0322',
         transactionId: 0x3f
     },
+    0x00B8: {
+        name: 'Razer Viper V3 HyperSpeed',
+        transactionId: 0x1f
+    },
+
 };
 
 function GetMessage(mouse) {
